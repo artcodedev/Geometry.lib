@@ -9,7 +9,9 @@ bun install
 ```bash
 bun index.ts
 ```
-
-bunx tsc --noEmit пройден
+Проверкой типов(пройдена):
+```bash
+bunx tsc --noEmit
+```
 
 This project was created using `bun init` in bun v1.3.4. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
